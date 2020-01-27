@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StubExample", "StubExample\StubExample.csproj", "{4A66E9B4-A702-4DC6-B15F-C58A0AEE657E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StubTest", "StubTest\StubTest.csproj", "{958979F9-6A9E-4F8F-A126-18C94160C90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A66E9B4-A702-4DC6-B15F-C58A0AEE657E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A66E9B4-A702-4DC6-B15F-C58A0AEE657E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A66E9B4-A702-4DC6-B15F-C58A0AEE657E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A66E9B4-A702-4DC6-B15F-C58A0AEE657E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958979F9-6A9E-4F8F-A126-18C94160C90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958979F9-6A9E-4F8F-A126-18C94160C90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958979F9-6A9E-4F8F-A126-18C94160C90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958979F9-6A9E-4F8F-A126-18C94160C90C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9027C53-87CE-42BF-938E-E9C4EE48A5EE}
+	EndGlobalSection
+EndGlobal
